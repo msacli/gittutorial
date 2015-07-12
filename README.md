@@ -14,3 +14,10 @@ git add dosyaismi.uzantısı
 git commit -am "mesajı"
 
 git push origin master bu da ana kaynaga yukler
+
+dosyayı git ten bilgisyara yüklemelek
+
+ilgili repositıry git orada sağ da ortalarda kopi to klip board var tıkla.
+
+giti aç git clone yaz sonra alt + space bas 
+düzenleme sekmesinde yapıştıra tıkla ve git bash içine adres kopyalansın entere bas
